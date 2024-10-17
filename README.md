@@ -4,5 +4,6 @@ This code demonstrates a deep learning-based approach to predict the 3D structur
 The code utilizes several libraries: NumPy for handling numerical data, TensorFlow for building and training the neural network model, and Matplotlib for 3D visualization. The neural network is trained using a mean squared error loss function and the Adam optimizer. The visualization of the predicted 3D structure includes customizations such as different colors for each amino acid and a line connecting the amino acids, representing the protein's overall structure. With these tools, the code provides a simple but effective demonstration of how machine learning can be applied to bioinformatics tasks such as protein structure prediction.
 
 # How to access the application
-1. Click on the folder '3D Protein Structure Prediction from Amino Acid Sequence using Deep Learning
-2. 
+1. [Click Here](https://github.com/mergho28/3D-Protein-Structure-Prediction-from-Amino-Acid-Sequences-Using-Deep-Learning/blob/master/3D%20Protein%20Prediction%20Model%20from%20Amino%20Acid%20Sequence/_3D_Protein_Prediction_Model_from_Amino_Acid_Sequence.py)
+2. Install all relevant libraries
+3. Copy and Paste the code and run in any Python environment
